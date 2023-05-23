@@ -5,7 +5,8 @@ a+b*(c^d-e)^(f+g*h)-i
 A*(B+C)/D
 Contoh Output:
 abcd^e-fgh*+^*+iABC+*D/
-Algoritma:122 BAB 12. Java Collection
+
+Algoritma:
 1. Scan the infix expression from left to right.
 2. If the scanned character is an operand, output it.
 3. Else,
